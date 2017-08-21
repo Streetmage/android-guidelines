@@ -308,8 +308,9 @@ There is no single correct solution for this but using a __logical__ and __consi
 3. Constructors
 4. Override methods and callbacks (public or private)
 5. Public methods
-6. Private methods
-7. Inner classes or interfaces
+6. Protected methods
+7. Private methods
+8. Inner classes or interfaces
 
 Example:
 
