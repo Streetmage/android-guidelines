@@ -328,7 +328,12 @@ public class MainActivity extends Activity {
     public void onCreate() {
         ...
     }
-
+    
+    @Override
+    protected void createPresenter() {
+    	...
+    }
+    
     private void setUpView() {
         ...
     }
