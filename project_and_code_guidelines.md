@@ -307,7 +307,7 @@ There is no single correct solution for this but using a __logical__ and __consi
 2. Fields
 3. Constructors
 4. Override methods and callbacks (public or private)
-5. Public methods
+5. Public methods (including interfaces implementation)
 6. Protected methods
 7. Private methods
 8. Inner classes or interfaces
