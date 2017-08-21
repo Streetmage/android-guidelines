@@ -301,7 +301,7 @@ if (BuildConfig.DEBUG) Log.d(TAG, "The value of x is " + x);
 
 ### 2.2.10 Class member ordering
 
-There is no single correct solution for this but using a __logical__ and __consistent__ order will improve code learnability and readability. It is recommendable to use the following order:
+There is no single correct solution for this but using a __logical__ and __consistent__ order will improve code learnability and readability. __Static__ properties and methods should be written first. It is recommendable to use the following order:
 
 1. Constants
 2. Fields
