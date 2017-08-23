@@ -139,6 +139,7 @@ Fields should be defined at the __top of the file__ and they should follow the n
 * Private, static field names start with __s__.
 * Other fields start with a lower case letter.
 * Static final fields (constants) are ALL_CAPS_WITH_UNDERSCORES.
+* UI instances should be declared starting with name of component like __mTextViewUserName__
 
 Example:
 
